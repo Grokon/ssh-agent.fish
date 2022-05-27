@@ -9,8 +9,6 @@
 
 <br/>
 
-<br/>
-
 This plugin installs a fish function wrapper around `ssh-agent`. After start a fish shell - plugin is starting ssh-agent and try to add ssh-key.
 
 ## Install
